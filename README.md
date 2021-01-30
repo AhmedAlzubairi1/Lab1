@@ -3,6 +3,12 @@ Lab 1 for creative embedded systems
 ## Sources:
 https://www.youtube.com/watch?v=KkyIDI6rQJI&list=PLtCjdO3LPoYmmKm_PnB4iODCfneR2liOR&index=1&t=198s&ab_channel=TheCodingTrain
 
+## What is it?
+
+This is an early warning system to tell you and the public of incoming rain.
+Connect your pi to a monitor and put the monitor w/ LED lights outside your window so that the public can know when to expect rain in a fun creative way. 
+The LED would flash purple and blue whenever rain is expected to come that day, but be a solid green when it doesn't expect any rain.
+
 ## Installation 
 Install Processing by running:
 ```
