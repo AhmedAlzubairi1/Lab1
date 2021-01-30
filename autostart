@@ -1,4 +1,4 @@
 @lxpanel --profile LXDE-pi
 @pcmanfm --desktop --profile LXDE-pi
 @xscreensaver -no-splash
-processing-java --sketch=/home/pi/Documents/labOneProcessing --run
+processing-java --sketch=/home/pi/Documents/Lab1/labOneProcessing --run
