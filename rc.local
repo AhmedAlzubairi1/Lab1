@@ -18,7 +18,7 @@ if [ "$_IP" ]; then
 fi
 # sudo python3 temp.py
 # date >> /home/pi/Documents/bob.txt
-cd /home/pi/Documents/CreativeEmbeddedSystems/
+cd /home/pi/Documents/Lab1/
 sudo python3 code.py
 
 exit 0
